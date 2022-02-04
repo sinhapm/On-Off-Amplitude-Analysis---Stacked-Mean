@@ -20,7 +20,7 @@ It takes columnar data sets in the ASCII file only. Images & data from the Appli
 
 **Sample image**:
 
-![](.\Reference\Images\Image1.jpg)
+![](./Reference/Images/Image1.jpg)
 
 ------------------------------------------------------------------------------------------
 **References**:
